@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('istockphoto-936417502-1024x1024.jpg');
+}
+
+#player-setup, #category-selection, #question-area, #game-end {
+    margin-top: 50px;
+}
+
+input, select, button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}
+#restart-game{
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}
+.main{
+    display: block;
+    height: 500px;
+    width:900px;
+    background-color: rgb(151, 147, 147);
+    margin: auto;
+    border: 2px black solid ;
+    position: center;
+    margin-top: 80px;
+}
